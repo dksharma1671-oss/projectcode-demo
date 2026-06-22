@@ -1,2 +1,3 @@
 # projectcode-demo
-this is my fist git repository
+this is my first git repository
+author - Lalit Sharma
